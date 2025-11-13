@@ -2,8 +2,6 @@
 
 [<img src="/readme/feature_graphic.png" align="center" hspace="2" vspace="2">](/readme/feature_graphic.png)
 
-[<img src="/readme/download-google-play.png" align="center" height="100" hspace="2" vspace="2">](https://play.google.com/store/apps/details?id=com.barbodh.madgrid)
-
 Mad Grid is a visual sequence memory game originally inspired by [Human Benchmark](https://humanbenchmark.com/).
 The game consists of a 3×3 grid, which displays a randomly generated sequence to be perfectly replicated by the user.
 The game becomes progressively more difficult as the length of the sequence increments in each level.
