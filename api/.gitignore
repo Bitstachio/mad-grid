@@ -1,0 +1,74 @@
+### Java ###
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+out/
+.idea/
+.idea_modules/
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+nbactions.xml
+nb-configuration.xml
+
+### Eclipse ###
+.settings/
+bin/
+tmp/
+.metadata
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+
+### VS Code ###
+.vscode/
+.code-workspace
+
+### OS X ###
+.DS_Store
+
+### Miscellaneous ###
+*.log
+
+### Firebase ###
+firebase-private-key.json
